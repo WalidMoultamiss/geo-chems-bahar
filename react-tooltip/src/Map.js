@@ -22,7 +22,7 @@ const Map = () => {
     
     
     //fetch data from geojson
-    fetch("http://localhost:3000/geojson.json")
+    fetch("/geojson.json")
       .then((response) => response.json())
       .then((data) => {
         // console.log(data);
