@@ -1,0 +1,550 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "properties": {
+          "id": 0,
+          "message": "ok",
+          "iconSize": [
+            30,
+            30
+          ],
+          "icon": "/image/barque.png"
+        },
+        "info": {
+          "barqueID": "UY34I5YO34U5",
+          "name": "Barque",
+          "Rais": "ahmed sabika",
+          "photo": "/image/pecheur.jpg",
+          "phone": "0986342344",
+          "type": "Barque artisanale",
+          "description": "Barque artisanale",
+          "coworkers": [
+            {
+              "name": "ayman sohail",
+              "email": "ayman@gmail.com",
+              "phone": "067752645645"
+            },
+            {
+              "name": "lotfi majjati",
+              "email": "ayman@gmail.com",
+              "phone": "067752645645"
+            },
+            {
+              "name": "jawad robaaii",
+              "email": "ayman@gmail.com",
+              "phone": "067752645645"
+            }
+          ]
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -9.3168716,
+            32.2789255
+          ],
+          "icon": "/image/barque.png"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": 1,
+          "message": "ok",
+          "iconSize": [
+            30,
+            30
+          ],
+          "icon": "/image/barqueOn.png"
+        },
+        "info": {
+          "barqueID": "UY34I5YO34U5",
+          "name": "Barque",
+          "Rais": "ahmed sabika",
+          "photo": "/image/pecheur.jpg",
+          "phone": "0986342344",
+          "type": "Barque artisanale",
+          "description": "Barque artisanale",
+          "coworkers": [
+            {
+              "name": "ayman sohail",
+              "email": "ayman@gmail.com",
+              "phone": "067752645645"
+            },
+            {
+              "name": "lotfi majjati",
+              "email": "ayman@gmail.com",
+              "phone": "067752645645"
+            },
+            {
+              "name": "jawad robaaii",
+              "email": "ayman@gmail.com",
+              "phone": "067752645645"
+            }
+          ]
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -9.3268716,
+            32.2289255
+          ],
+          "icon": "/image/barque.png"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": 6,
+          "message": "ok",
+          "iconSize": [
+            30,
+            30
+          ],
+          "icon": "/image/barque.png"
+        },
+        "info": {
+          "barqueID": "UY34I5YO34U5",
+          "name": "Barque",
+          "Rais": "ahmed sabika",
+          "photo": "/image/pecheur.jpg",
+          "phone": "0986342344",
+          "type": "Barque artisanale",
+          "description": "Barque artisanale",
+          "coworkers": [
+            {
+              "name": "ayman sohail",
+              "email": "ayman@gmail.com",
+              "phone": "067752645645"
+            },
+            {
+              "name": "lotfi majjati",
+              "email": "ayman@gmail.com",
+              "phone": "067752645645"
+            },
+            {
+              "name": "jawad robaaii",
+              "email": "ayman@gmail.com",
+              "phone": "067752645645"
+            }
+          ]
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -9.2968716,
+            32.2489255
+          ],
+          "icon": "/image/barque.png"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": 7,
+          "message": "ok",
+          "iconSize": [
+            30,
+            30
+          ],
+          "icon": "/image/barque.png"
+        },
+        "info": {
+          "barqueID": "UY34I5YO34U5",
+          "name": "Barque",
+          "Rais": "ahmed sabika",
+          "photo": "/image/pecheur.jpg",
+          "phone": "0986342344",
+          "type": "Barque artisanale",
+          "description": "Barque artisanale",
+          "coworkers": [
+            {
+              "name": "ayman sohail",
+              "email": "ayman@gmail.com",
+              "phone": "067752645645"
+            },
+            {
+              "name": "lotfi majjati",
+              "email": "ayman@gmail.com",
+              "phone": "067752645645"
+            },
+            {
+              "name": "jawad robaaii",
+              "email": "ayman@gmail.com",
+              "phone": "067752645645"
+            }
+          ]
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -9.3068716,
+            32.2689255
+          ],
+          "icon": "/image/barque.png"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": 2,
+          "message": "ok",
+          "iconSize": [
+            30,
+            30
+          ],
+          "icon": "/image/barque.png"
+        },
+        "info": {
+          "barqueID": "UY34I5YO34U5",
+          "name": "Barque",
+          "Rais": "ahmed sabika",
+          "photo": "/image/pecheur.jpg",
+          "phone": "0986342344",
+          "type": "Barque artisanale",
+          "description": "Barque artisanale",
+          "coworkers": [
+            {
+              "name": "ayman sohail",
+              "email": "ayman@gmail.com",
+              "phone": "067752645645"
+            },
+            {
+              "name": "lotfi majjati",
+              "email": "ayman@gmail.com",
+              "phone": "067752645645"
+            },
+            {
+              "name": "jawad robaaii",
+              "email": "ayman@gmail.com",
+              "phone": "067752645645"
+            }
+          ]
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -9.2668716,
+            32.2989255
+          ],
+          "icon": "/image/barque.png"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": 3,
+          "message": "ok",
+          "iconSize": [
+            30,
+            30
+          ],
+          "icon": "/image/barqueOn.png"
+        },
+        "info": {
+          "barqueID": "UY34I5YO34U5",
+          "name": "Barque",
+          "Rais": "ahmed sabika",
+          "photo": "/image/pecheur.jpg",
+          "phone": "0986342344",
+          "type": "Barque artisanale",
+          "description": "Barque artisanale",
+          "coworkers": [
+            {
+              "name": "ayman sohail",
+              "email": "ayman@gmail.com",
+              "phone": "067752645645"
+            },
+            {
+              "name": "lotfi majjati",
+              "email": "ayman@gmail.com",
+              "phone": "067752645645"
+            },
+            {
+              "name": "jawad robaaii",
+              "email": "ayman@gmail.com",
+              "phone": "067752645645"
+            }
+          ]
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -9.2498716,
+            32.2929255
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": 8,
+          "message": "ok",
+          "iconSize": [
+            30,
+            30
+          ],
+          "icon": "/image/barqueOn.png"
+        },
+        "info": {
+          "barqueID": "UY34I5YO34U5",
+          "name": "Barque",
+          "Rais": "ahmed sabika",
+          "photo": "/image/pecheur.jpg",
+          "phone": "0986342344",
+          "type": "Barque artisanale",
+          "description": "Barque artisanale",
+          "coworkers": [
+            {
+              "name": "ayman sohail",
+              "email": "ayman@gmail.com",
+              "phone": "067752645645"
+            },
+            {
+              "name": "lotfi majjati",
+              "email": "ayman@gmail.com",
+              "phone": "067752645645"
+            },
+            {
+              "name": "jawad robaaii",
+              "email": "ayman@gmail.com",
+              "phone": "067752645645"
+            }
+          ]
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -9.3498716,
+            32.2629255
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": 4,
+          "message": "ok",
+          "iconSize": [
+            30,
+            30
+          ],
+          "icon": "/image/barque.png"
+        },
+        "info": {
+          "barqueID": "UY34I5YO34U5",
+          "name": "Barque",
+          "Rais": "ahmed sabika",
+          "photo": "/image/pecheur.jpg",
+          "phone": "0986342344",
+          "type": "Barque artisanale",
+          "description": "Barque artisanale",
+          "coworkers": [
+            {
+              "name": "ayman sohail",
+              "email": "ayman@gmail.com",
+              "phone": "067752645645"
+            },
+            {
+              "name": "lotfi majjati",
+              "email": "ayman@gmail.com",
+              "phone": "067752645645"
+            },
+            {
+              "name": "jawad robaaii",
+              "email": "ayman@gmail.com",
+              "phone": "067752645645"
+            }
+          ]
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -9.3098716,
+            32.2929255
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": 5,
+          "message": "ok",
+          "iconSize": [
+            30,
+            30
+          ],
+          "icon": "/image/barque.png"
+        },
+        "info": {
+          "barqueID": "UY34I5YO34U5",
+          "name": "Barque rissani",
+          "Rais": "ahmed sabika",
+          "photo": "/image/pecheur.jpg",
+          "phone": "0986342344",
+          "type": "Barque artisanale",
+          "description": "Barque artisanale",
+          "coworkers": [
+            {
+              "name": "ayman sohail",
+              "email": "ayman@gmail.com",
+              "phone": "067752645645"
+            },
+            {
+              "name": "lotfi majjati",
+              "email": "ayman@gmail.com",
+              "phone": "067752645645"
+            },
+            {
+              "name": "jawad robaaii",
+              "email": "ayman@gmail.com",
+              "phone": "067752645645"
+            }
+          ]
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -9.2568716,
+            32.3189255
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": 9,
+          "message": "ok",
+          "iconSize": [
+            30,
+            30
+          ],
+          "icon": "/image/barque.png"
+        },
+        "info": {
+          "barqueID": "UY34I5YO34U5",
+          "name": "Barque rissani",
+          "Rais": "ahmed sabika",
+          "photo": "/image/pecheur.jpg",
+          "phone": "0986342344",
+          "type": "Barque artisanale",
+          "description": "Barque artisanale",
+          "coworkers": [
+            {
+              "name": "ayman sohail",
+              "email": "ayman@gmail.com",
+              "phone": "067752645645"
+            },
+            {
+              "name": "lotfi majjati",
+              "email": "ayman@gmail.com",
+              "phone": "067752645645"
+            },
+            {
+              "name": "jawad robaaii",
+              "email": "ayman@gmail.com",
+              "phone": "067752645645"
+            }
+          ]
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -9.3568716,
+            32.4189255
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": 10,
+          "message": "ok",
+          "iconSize": [
+            30,
+            30
+          ],
+          "icon": "/image/barqueOn.png"
+        },
+        "info": {
+          "barqueID": "UY34I5YO34U5",
+          "name": "Barque rissani",
+          "Rais": "ahmed sabika",
+          "photo": "/image/pecheur.jpg",
+          "phone": "0986342344",
+          "type": "Barque artisanale",
+          "description": "Barque artisanale",
+          "coworkers": [
+            {
+              "name": "ayman sohail",
+              "email": "ayman@gmail.com",
+              "phone": "067752645645"
+            },
+            {
+              "name": "lotfi majjati",
+              "email": "ayman@gmail.com",
+              "phone": "067752645645"
+            },
+            {
+              "name": "jawad robaaii",
+              "email": "ayman@gmail.com",
+              "phone": "067752645645"
+            }
+          ]
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -9.3168716,
+            32.4189255
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": 11,
+          "message": "ok",
+          "iconSize": [
+            30,
+            30
+          ],
+          "icon": "/image/barque.png"
+        },
+        "info": {
+          "barqueID": "UY34I5YO34U5",
+          "name": "Barque rissani",
+          "Rais": "ahmed sabika",
+          "photo": "/image/pecheur.jpg",
+          "phone": "0986342344",
+          "type": "Barque artisanale",
+          "description": "Barque artisanale",
+          "coworkers": [
+            {
+              "name": "ayman sohail",
+              "email": "ayman@gmail.com",
+              "phone": "067752645645"
+            },
+            {
+              "name": "lotfi majjati",
+              "email": "ayman@gmail.com",
+              "phone": "067752645645"
+            },
+            {
+              "name": "jawad robaaii",
+              "email": "ayman@gmail.com",
+              "phone": "067752645645"
+            }
+          ]
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -9.3968716,
+            32.3989255
+          ]
+        }
+      }
+    ]
+  }

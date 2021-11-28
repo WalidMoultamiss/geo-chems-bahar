@@ -2,7 +2,9 @@
   "name": "react-tooltip",
   "version": "0.1.0",
   "dependencies": {
+    "@craco/craco": "^6.4.2",
     "mapbox-gl": "^1.11.1",
+    "netlify-cli": "^8.0.3",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-scripts": "^3.4.3"
@@ -22,5 +24,10 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "autoprefixer": "^9",
+    "postcss": "^7",
+    "tailwindcss": "npm:@tailwindcss/postcss7-compat"
   }
 }
