@@ -59,11 +59,13 @@ const getImage = ({ setStep }) => {
     textTransform: "capitalize",
     //shadow
     boxShadow: "0px 5px 5px #00000040",
+    borderBottom: "1px solid #00000050",
     WebkitBoxShadow: "0px 5px 5px #00000040",
     backgroundColor: "transparent",
     textAlign: "left",
     padding: "0.5em",
-    borderRadius: "0.3em",
+    // border radius bottom
+    borderRadius: "0.25rem 0.25rem 0 0",
   };
 
   const buttonStyle = {

@@ -33,10 +33,12 @@ const Home = ({setStep}) => {
     boxShadow: "0px 5px 5px #00000040",
     //shadow for safari
     WebkitBoxShadow: "0px 5px 5px #00000040",
+    borderBottom: "1px solid #00000050",
     backgroundColor: "transparent",
     textAlign: "left",
     padding: "0.5em",
-    borderRadius: "0.3em",
+    borderRadius: "0.25rem 0.25rem 0 0",
+    
   };
 
 
