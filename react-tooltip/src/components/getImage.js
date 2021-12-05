@@ -39,6 +39,7 @@ const getImage = ({ setStep }) => {
     backgroundRepeat: "no-repeat",
     backgroundColor: "black",
     boxShadow: "0px 0px 10px #000000",
+    WebkitBoxShadow: "0px 5px 5px #00000040",
     backgroundPosition: "center",
     marginTop: "-70px",
     width: "120px",
@@ -58,6 +59,7 @@ const getImage = ({ setStep }) => {
     textTransform: "capitalize",
     //shadow
     boxShadow: "0px 5px 5px #00000040",
+    WebkitBoxShadow: "0px 5px 5px #00000040",
     backgroundColor: "transparent",
     textAlign: "left",
     padding: "0.5em",
@@ -173,7 +175,7 @@ const getImage = ({ setStep }) => {
             <input style={inputStyle} type="file" />
           </div>
           <div
-            style={{ width: "100%", display: "flex", justifyContent: "end" }}
+            style={{ width: "100%", display: "flex", justifyContent: "flex-end" }}
           >
             <button onClick={() => setStep(2)} style={buttonStyle}>
               Sign up

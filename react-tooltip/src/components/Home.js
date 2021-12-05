@@ -31,6 +31,8 @@ const Home = ({setStep}) => {
     textTransform: "capitalize",
     //shadow
     boxShadow: "0px 5px 5px #00000040",
+    //shadow for safari
+    WebkitBoxShadow: "0px 5px 5px #00000040",
     backgroundColor: "transparent",
     textAlign: "left",
     padding: "0.5em",
@@ -52,6 +54,8 @@ const Home = ({setStep}) => {
     textTransform: "capitalize",
     //shadow
     boxShadow: "0px 5px 5px #00000040",
+    WebkitBoxShadow: "0px 5px 5px #00000040",
+
     //text center
     textAlign: "center",
     backgroundColor: "#5ac4f0",
@@ -146,7 +150,7 @@ const Home = ({setStep}) => {
             <input style={inputStyle} type="password" />
         </div>
 
-        <div style={{width:'100%',display:"flex",justifyContent:"end"}}>
+        <div style={{width:'100%',display:"flex",justifyContent:"flex-end"}}>
             <button onClick={()=>setStep(1)} style={buttonStyle}>Next</button>
         </div>
         </div>
